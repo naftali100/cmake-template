@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.22)
 
-project(sfml-imgui)
+project(cmake-template)
 
 add_executable(${PROJECT_NAME})
 
